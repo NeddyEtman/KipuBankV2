@@ -9,7 +9,7 @@
 
 ---
 
-## 🔗 Despliegue Oficial
+## Despliegue Oficial
 
 El contrato se encuentra desplegado y **verificado** en la testnet de Sepolia.
 
@@ -19,7 +19,7 @@ El contrato se encuentra desplegado y **verificado** en la testnet de Sepolia.
 
 ---
 
-## 🚀 Arquitectura y Mejoras (V1 vs V2)
+## Arquitectura y Mejoras (V1 vs V2)
 
 Esta versión abandona la rigidez de un contrato básico para adoptar patrones de composición y seguridad estándar en la industria DeFi.
 
@@ -32,7 +32,7 @@ Esta versión abandona la rigidez de un contrato básico para adoptar patrones d
 
 ---
 
-## 🧠 Decisiones de Diseño y Trade-offs
+## Decisiones de Diseño y Trade-offs
 
 Durante la refactorización, se tomaron decisiones conscientes priorizando la seguridad y la eficiencia del gas sobre la precisión absoluta del TVL.
 
